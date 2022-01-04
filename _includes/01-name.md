@@ -1,11 +1,6 @@
----
-layout: default
----
+<h1>bassimstg</h1>
 
-{% include 01-name.md %}
-
-
-<h1>_includes/01-name.md</h1>
+<h1># </h1>
 
 # This is an <h1> header, which is the largest
 ## This is an <h2> header
